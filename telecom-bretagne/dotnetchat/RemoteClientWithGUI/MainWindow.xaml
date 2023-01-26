@@ -1,0 +1,27 @@
+﻿<Window x:Class="RemoteClientWithGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RemoteClientWithGUI"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBoxSend" HorizontalAlignment="Left" Height="39" Margin="10,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="418" KeyDown="textBoxSend_EnterPressed"/>
+        <TextBox x:Name="textBoxMessages" HorizontalAlignment="Left" Height="166" Margin="155,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="354" IsReadOnly="True"/>
+        <Button x:Name="buttonSend" Content="Send!" HorizontalAlignment="Left" Margin="440,248,0,0" VerticalAlignment="Top" Width="75" Height="64" Click="buttonSend_Click"/>
+        <Button x:Name="buttonLogin" Content="Login" HorizontalAlignment="Left" Margin="352,10,0,0" VerticalAlignment="Top" Width="81" Height="39" Click="buttonLogin_Click"/>
+        <Button x:Name="buttonLogout" Content="Logout" HorizontalAlignment="Left" Margin="438,10,0,0" VerticalAlignment="Top" Width="77" Height="39" Click="buttonLogout_Click"/>
+        <Label x:Name="labelCredentials" Content="Credentials" HorizontalAlignment="Left" Margin="10,14,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.514,0.731" Height="27" Width="88"/>
+        <TextBox x:Name="textBoxUserName" HorizontalAlignment="Left" Height="27" Margin="103,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="154"/>
+        <TextBox x:Name="textBoxUserList" HorizontalAlignment="Left" Height="166" Margin="10,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsReadOnly="True"/>
+        <TextBox x:Name="textBoxPortNumber" HorizontalAlignment="Left" Height="27" Margin="261,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" AutomationProperties.HelpText="Port number"/>
+        <Label x:Name="labelUserList" Content="Users online:" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top" Height="26" Width="77"/>
+        <Label x:Name="labelMessages" Content="Messages" HorizontalAlignment="Left" Margin="155,46,0,0" VerticalAlignment="Top" Height="26" Width="62"/>
+        <Label x:Name="labelSendMessage" Content="Send a message" HorizontalAlignment="Left" Margin="10,244,0,0" VerticalAlignment="Top" Height="29" Width="141"/>
+    </Grid>
+</Window>

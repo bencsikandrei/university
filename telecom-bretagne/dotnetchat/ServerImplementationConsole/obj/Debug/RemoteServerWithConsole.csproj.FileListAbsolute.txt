@@ -1,0 +1,16 @@
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerImplementationConsole\bin\Debug\ServerImplementationConsole.exe.config
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerImplementationConsole\bin\Debug\ServerImplementationConsole.exe
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerImplementationConsole\bin\Debug\ServerImplementationConsole.pdb
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerImplementationConsole\bin\Debug\ServerClient.dll
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerImplementationConsole\bin\Debug\ServerClient.pdb
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerImplementationConsole\obj\Debug\RemoteServerWithConsole.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerImplementationConsole\obj\Debug\ServerImplementationConsole.exe
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerImplementationConsole\obj\Debug\ServerImplementationConsole.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerImplementationConsole\bin\Debug\ServerImplementationConsole.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerImplementationConsole\obj\Debug\ServerImplementationConsole.exe
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerImplementationConsole\obj\Debug\ServerImplementationConsole.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerImplementationConsole\bin\Debug\ServerImplementationConsole.exe
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerImplementationConsole\bin\Debug\ServerImplementationConsole.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerImplementationConsole\bin\Debug\ServerClient.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerImplementationConsole\bin\Debug\ServerClient.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerImplementationConsole\obj\Debug\RemoteServerWithConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\App.g.cs
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI_MarkupCompile.cache
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI_MarkupCompile.lref
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\bin\Debug\RemoteClientWithGUI.exe.config
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\bin\Debug\RemoteClientWithGUI.exe
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\bin\Debug\RemoteClientWithGUI.pdb
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\bin\Debug\ServerClient.dll
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\bin\Debug\ServerClient.pdb
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\MainWindow.baml
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.g.resources
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.Properties.Resources.resources
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.exe
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\bin\Debug\RemoteClientWithGUI.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.exe
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\bin\Debug\RemoteClientWithGUI.exe
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\bin\Debug\RemoteClientWithGUI.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\bin\Debug\ServerClient.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\bin\Debug\ServerClient.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\App.g.cs
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI_MarkupCompile.cache
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI_MarkupCompile.lref
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\MainWindow.baml
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.g.resources
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.Properties.Resources.resources
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\RemoteClientWithGUI\obj\Debug\RemoteClientWithGUI.csproj.GenerateResource.Cache

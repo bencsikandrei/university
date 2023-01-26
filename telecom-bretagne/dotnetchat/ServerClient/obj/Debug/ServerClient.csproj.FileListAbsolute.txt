@@ -1,0 +1,5 @@
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\bin\Debug\ServerClient.dll
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\bin\Debug\ServerClient.pdb
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\obj\Debug\ServerClient.dll
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\obj\Debug\ServerClient.pdb
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\obj\Debug\ServerClient.csprojResolveAssemblyReference.cache

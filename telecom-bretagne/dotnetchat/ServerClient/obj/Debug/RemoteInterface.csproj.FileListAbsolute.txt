@@ -1,0 +1,10 @@
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\bin\Debug\ServerClient.dll
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\bin\Debug\ServerClient.pdb
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\obj\Debug\ServerClient.dll
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\obj\Debug\ServerClient.pdb
+C:\Users\Andrei\Desktop\Best Solution\TwoWayRemotingServer_src\RemotingServer\ServerClient\obj\Debug\RemoteInterface.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerClient\bin\Debug\ServerClient.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerClient\bin\Debug\ServerClient.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerClient\obj\Debug\RemoteInterface.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerClient\obj\Debug\ServerClient.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\Final_ChatNETRemoting\ServerClient\obj\Debug\ServerClient.pdb

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+
+    <string name="login_text_welcome">Welcome to TChat!</string>
+    <string name="new_member_text_welcome">Let\'s get started!</string>
+
+    <string name="passwd_text_description">The password indicator</string>
+
+    <string name="button_new_account_text">Not yet a member ?</string>
+
+    <string name="login_edit">Username</string>
+    <string name="passwd_text">Password</string>
+    <string name="passwd_edit">Password</string>
+    <string name="passwd_edit_again">Again</string>
+
+    <string name="name_edit">Enter your name</string>
+    <string name="name_text">Your name</string>
+
+    <string name="button_create">Create</string>
+    <string name="button_login">Login!</string>
+
+    <string name="write_a_message">Write a message...</string>
+
+    <string name="SIGNUPURL">http://cesi.cleverapps.io/signup</string>
+    <string name="SIGNINURL">http://cesi.cleverapps.io/ping</string>
+    <string name="GETMESSAGESURL">http://cesi.cleverapps.io/messages</string>
+    <string name="SENDMESSAGESURL">http://cesi.cleverapps.io/messages</string>
+
+</resources>
